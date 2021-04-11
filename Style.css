@@ -1,0 +1,35 @@
+body{
+    background-color: #a6eef1;    
+}
+h1{
+    color: #00ffea;
+    padding-top: ;
+}
+button{
+    background-color: #006effe3;
+    width: 100%;
+}
+.Section1
+{
+    background-color: white;
+    width: 25%;
+    padding: 20px;
+    margin: auto;
+    margin-top: 13%;
+    border-right-style: inset;
+    border-right-color: #5087ff;
+    border-right-width: 20px;
+}
+#one
+{
+    width: 100%;
+}
+#two
+{
+    width: 100%;
+}
+a
+{
+    padding-left: 38%;
+}
+
